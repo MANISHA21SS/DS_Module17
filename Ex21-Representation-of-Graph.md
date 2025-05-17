@@ -59,8 +59,8 @@ int main()
 
 
 ## Output:
+![image](https://github.com/user-attachments/assets/d040aa09-2966-42c1-adb7-8cd432acb636)
 
-![image](https://github.com/user-attachments/assets/732ab718-b3f9-4d90-a013-07e80873cb84)
 
 
 ## Result:

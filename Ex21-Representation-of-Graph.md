@@ -56,7 +56,7 @@ int main()
    printAdjMatrix(adjMatrix);
 }
 
-
+```
 
 ## Output:
 ![image](https://github.com/user-attachments/assets/d040aa09-2966-42c1-adb7-8cd432acb636)
